@@ -4,10 +4,10 @@
 <head profile="http://gmpg.org/xfn/11">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
 	<title><?php if (is_home()) { bloginfo('name'); } elseif (is_single() || is_page() || is_archive()) { wp_title(''); ?> | <?php bloginfo('name'); } elseif  (is_404()) { _e('The page you are looking for doesn\'t exist. Sorry.','nutcrackr'); ?> - <?php bloginfo('name'); ?><?php } elseif (is_search()) { ?><?php _e('You searched for the following','nutcrackr'); ?>: "<?php echo wp_specialchars($s); ?>" | <?php bloginfo('name'); } ?></title>
-	
+
 	<meta http-equiv="Content-Type" content="<?php bloginfo('html_type'); ?>; charset=<?php bloginfo('charset'); ?>" />
 	<meta name="generator" content="WordPress" />
-	
+
 	<link rel="stylesheet" href="<?php bloginfo('stylesheet_url'); ?>" type="text/css" media="screen" />
 	<!--[if IE 7]>
 		<link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/css/ie7.css" type="text/css" media="screen" />
@@ -38,7 +38,7 @@
 		<a href="<?php bloginfo('rss2_url'); ?>" title="rss" id="rss_btn">
 			<img src="<?php bloginfo('stylesheet_directory'); ?>/img/rss.png" alt="rss" onmouseover="this.src='<?php bloginfo('stylesheet_directory'); ?>/img/rss_hover.png'" onmouseout="this.src='<?php bloginfo('stylesheet_directory'); ?>/img/rss.png'" />
 		</a>
-		<a href="#" title="search" id="search_btn">
+		<a href="<?php bloginfo('url'); ?>/search/" title="search" id="search_btn">
 			<img src="<?php bloginfo('stylesheet_directory'); ?>/img/search.png" alt="search" onmouseover="this.src='<?php bloginfo('stylesheet_directory'); ?>/img/search_hover.png'" onmouseout="this.src='<?php bloginfo('stylesheet_directory'); ?>/img/search.png'" />
 		</a>
 		</div>
