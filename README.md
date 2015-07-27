@@ -1,3 +1,3 @@
 # wp-nodancer
 
-Wordpress theme for blog.nodance.net
+Wordpress theme "No dancer" for blog.nodance.net
