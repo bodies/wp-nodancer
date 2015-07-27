@@ -295,11 +295,11 @@ li.current-cat ul.children { font-weight:normal; }
 /* for Google search form: normal 2 */
 input.gsc-input { padding:6px !important; }
 input.gsc-search-button {
-	font-size: 12px;
-	color: #666;
-	background-color: #efefef;
-	border: 1px solid #d9d9d9;
-	height: 28px;
-	min-width: 64px;
-	padding: 6px;
+	font-size: 12px !important;
+	color: #666 !important;
+	background-color: #efefef !important;
+	border: 1px solid #d9d9d9 !important;
+	height: 28px !important;
+	min-width: 64px !important;
+	padding: 6px !important;
 }
