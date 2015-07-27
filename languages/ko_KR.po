@@ -1,0 +1,272 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: white_nutcrackr\n"
+"POT-Creation-Date: 2015-02-16 04:03+0900\n"
+"PO-Revision-Date: 2015-02-16 04:04+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ko_KR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: /Users/yoonjo/dev/wordpress/white_nutcrackr\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: /Users/yoonjo/dev/wordpress/white_nutcrackr\n"
+
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/404.php:4
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/header.php:6
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/header_orig.php:6
+msgid "The page you are looking for doesn't exist. Sorry."
+msgstr "죄송합니다. 찾으시는 페이지가 존재하지 않습니다."
+
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/archive.php:7
+msgid "Category Archives: "
+msgstr "카테고리별 글 목록: "
+
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/archive.php:9
+msgid "Tag Archives: "
+msgstr "태그별 글 목록: "
+
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/archive.php:11
+msgid "Daily Archives: "
+msgstr "일별 글 목록: "
+
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/archive.php:13
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/archive.php:15
+msgid "Monthly Archives: "
+msgstr "월별 글 목록: "
+
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/archive.php:17
+msgid "Author Archives: "
+msgstr "작성자별 글 목록: "
+
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/archive.php:19
+msgid "Blog Archives"
+msgstr ""
+
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/archive.php:25
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/single.php:8
+msgid "Read the rest of this post"
+msgstr "계속 읽기"
+
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/archive.php:31
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/index.php:20
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/search.php:17
+msgid "Previous posts"
+msgstr "이전 글 보기"
+
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/archive.php:32
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/index.php:21
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/search.php:18
+msgid "Newer posts"
+msgstr "최근 글 보기"
+
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/comments.php:3
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/comments_orig.php:3
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/comments.php:7
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/comments_orig.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/comments.php:18
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/comments.php:31
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/comments_orig.php:18
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/comments_orig.php:37
+msgid "No comments yet."
+msgstr "첫 댓글을 남겨주세요!"
+
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/comments.php:18
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/comments_orig.php:18
+msgid "There is 1 comment in this article:"
+msgstr "댓글이 1개 있습니다."
+
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/comments.php:18
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/comments_orig.php:18
+#, php-format
+msgid "There are % comments in this article:"
+msgstr "댓글이 %개 있습니다."
+
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/comments.php:36
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/comments_orig.php:42
+msgid "Comments are closed."
+msgstr ""
+
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/comments.php:42
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/comments_orig.php:48
+msgid "Write a comment"
+msgstr "댓글 쓰기"
+
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/comments.php:44
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/comments_orig.php:50
+msgid "You have to"
+msgstr ""
+
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/comments.php:44
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/comments_orig.php:50
+msgid "log in"
+msgstr "로그인"
+
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/comments.php:44
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/comments_orig.php:50
+msgid "to write a comment."
+msgstr ""
+
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/comments.php:48
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/comments_orig.php:54
+msgid "Log out of this account"
+msgstr ""
+
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/comments.php:48
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/comments_orig.php:54
+msgid "Logout"
+msgstr "로그아웃"
+
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/comments.php:52
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/comments_orig.php:58
+msgid "Name"
+msgstr "이름"
+
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/comments.php:52
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/comments_orig.php:58
+msgid "(needed)"
+msgstr "(필수)"
+
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/comments.php:56
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/comments_orig.php:62
+msgid "Email"
+msgstr "전자우편"
+
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/comments.php:56
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/comments_orig.php:62
+msgid "(needed but it will not be published)"
+msgstr "(필수 - 표시되지 않음)"
+
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/comments.php:60
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/comments_orig.php:66
+msgid "Website (if you have one)"
+msgstr "웹사이트"
+
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/comments.php:67
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/comments_orig.php:73
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/functions.php:21
+msgid "comment"
+msgstr "댓글"
+
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/comments_orig.php:23
+msgid "Your comment will be published when it is approved."
+msgstr ""
+
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/comments_orig.php:25
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/search.php:9
+msgid "m/j/Y"
+msgstr "Y/m/j"
+
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/footer.php:2
+msgid "powered by"
+msgstr ""
+
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/functions.php:15
+msgid "No Comments"
+msgstr "댓글 0"
+
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/functions.php:17
+#, php-format
+msgid "%d Comments"
+msgstr "댓글 %d"
+
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/functions.php:19
+msgid "1 Comment"
+msgstr "댓글 1"
+
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/functions.php:28
+msgid "tags"
+msgstr "태그"
+
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/header.php:6
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/header_orig.php:6
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/search.php:5
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/search.php:21
+msgid "You searched for the following"
+msgstr "검색 결과"
+
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/header.php:19
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/header_orig.php:19
+msgid "RSS Feed"
+msgstr ""
+
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/header.php:20
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/header_orig.php:20
+msgid "Comments RSS Feed"
+msgstr ""
+
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/index.php:14
+msgid "Continue Reading"
+msgstr "계속 읽기"
+
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/index.php:24
+msgid ""
+"You broke the interwebs... wow... way to go.. no really you may want to call "
+"someone to take a look at it.."
+msgstr ""
+
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/index.php:25
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/search.php:22
+msgid "Back home"
+msgstr "처음으로 돌아가기"
+
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/search.php:23
+msgid ""
+"We didn't find anything. Try a different search or look in the categories "
+"below."
+msgstr ""
+
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/searchform.php:3
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/searchform.php:5
+msgid "Search"
+msgstr "검색"
+
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/single.php:9
+msgid "Pages"
+msgstr ""
+
+#: /Users/yoonjo/dev/wordpress/white_nutcrackr/single.php:20
+msgid "Sorry, there are no posts about that."
+msgstr ""
+
+#~ msgid "<cite class=\"fn\">%s</cite> <span class=\"says\">says:</span>"
+#~ msgstr "<cite class=\"fn\">%s</cite> <span class=\"says\">曰</span>"
+
+#~ msgid "Previous post"
+#~ msgstr "이전 글"
+
+#~ msgid "Next post"
+#~ msgstr "다음 글"
+
+#~ msgid "Search results"
+#~ msgstr "검색 결과"
+
+#~ msgid "Yearly Archives: %s"
+#~ msgstr " 연도별 글 목록: %s"
+
+#~ msgid "Archived posts in Category \"%s\""
+#~ msgstr "카테로기 \"%s\"에 해당하는 글"
+
+#~ msgid "Archived posts in Tag \"%s\""
+#~ msgstr "태그 \"%s\"에 해당하는 글"
+
+#~ msgid "Archive of published articles on %s"
+#~ msgstr "\"%s\"에 올라온 글"
+
+#~ msgid "Archive of published articles by %s"
+#~ msgstr "\"%s\"가 쓴 글"
+
+#~ msgid "Subscribe RSS Feed"
+#~ msgstr "RSS 구독하기"
+
+#~ msgid "Subscribe RSS comments"
+#~ msgstr "댓글 RSS 구독하기"
