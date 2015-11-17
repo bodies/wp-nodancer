@@ -28,19 +28,8 @@
 			<h1><a href="<?php echo get_option('home'); ?>/"><?php bloginfo('name'); ?></a></h1>
 			<p class="description"><?php bloginfo('description'); ?></p>
 		</div>
-		<div id="header_menu">
-		<a href="<?php bloginfo('url'); ?>/about/" title="about" id="about_btn">
-			<img src="<?php bloginfo('stylesheet_directory'); ?>/img/about.png" alt="about" onmouseover="this.src='<?php bloginfo('stylesheet_directory'); ?>/img/about_hover.png'" onmouseout="this.src='<?php bloginfo('stylesheet_directory'); ?>/img/about.png'" />
-		</a>
-		<a href="<?php bloginfo('url'); ?>/archives/" title="archive" id="arch_btn">
-			<img src="<?php bloginfo('stylesheet_directory'); ?>/img/archive.png" alt="archive" onmouseover="this.src='<?php bloginfo('stylesheet_directory'); ?>/img/archive_hover.png'" onmouseout="this.src='<?php bloginfo('stylesheet_directory'); ?>/img/archive.png'" />
-		</a>
-		<a href="<?php bloginfo('rss2_url'); ?>" title="rss" id="rss_btn">
-			<img src="<?php bloginfo('stylesheet_directory'); ?>/img/rss.png" alt="rss" onmouseover="this.src='<?php bloginfo('stylesheet_directory'); ?>/img/rss_hover.png'" onmouseout="this.src='<?php bloginfo('stylesheet_directory'); ?>/img/rss.png'" />
-		</a>
-		<a href="<?php bloginfo('url'); ?>/search/" title="search" id="search_btn">
-			<img src="<?php bloginfo('stylesheet_directory'); ?>/img/search.png" alt="search" onmouseover="this.src='<?php bloginfo('stylesheet_directory'); ?>/img/search_hover.png'" onmouseout="this.src='<?php bloginfo('stylesheet_directory'); ?>/img/search.png'" />
-		</a>
-		</div>
-		<div style="clear:both"></div>
 	</div><!-- close:header -->
+    <div id="header_menu">
+        <a href="<?php bloginfo("url"); ?>">홈</a> · <a href="<?php bloginfo("url"); ?>/about/">소개</a> · <a href="<?php bloginfo("url"); ?>/archives/">글 목록</a> · <a href="<?php bloginfo("rss2_url"); ?>">RSS</a> · <a href="<?php bloginfo("url"); ?>/search/">검색</a>
+    </div>
+
