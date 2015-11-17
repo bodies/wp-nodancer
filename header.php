@@ -25,11 +25,13 @@
 <div id="wrapper">
 	<div id="header">
 		<div id="header_title">
-			<h1><a href="<?php echo get_option('home'); ?>/"><?php bloginfo('name'); ?></a></h1>
 			<p class="description"><?php bloginfo('description'); ?></p>
+			<h1><a href="<?php echo get_option('home'); ?>/"><?php bloginfo('name'); ?></a></h1>
 		</div>
+		<div id="header_menu">
+        	<a href="<?php bloginfo("url"); ?>/about/">노댄스</a> · <a href="<?php bloginfo("url"); ?>/archives/">글</a> · <a href="<?php bloginfo("rss2_url"); ?>">RSS</a> · <a href="<?php bloginfo("url"); ?>/search/">검색</a>
+    	</div>
+    	<div style="clear:both"></div>
 	</div><!-- close:header -->
-    <div id="header_menu">
-        <a href="<?php bloginfo("url"); ?>">홈</a> · <a href="<?php bloginfo("url"); ?>/about/">소개</a> · <a href="<?php bloginfo("url"); ?>/archives/">글 목록</a> · <a href="<?php bloginfo("rss2_url"); ?>">RSS</a> · <a href="<?php bloginfo("url"); ?>/search/">검색</a>
-    </div>
+
 
